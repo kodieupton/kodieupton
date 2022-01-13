@@ -10,13 +10,13 @@
         "type": "open-source",
         "url": "https://github.com/kodieupton"
     },
-    "engines: [
-        "PHP",
-        "Javascript",
-        "HTML5",
-        "CSS3",
-        "SQL"
-    ],
+    "engines: {
+        "PHP": "*",
+        "Javascript": "*",
+        "HTML5": "*",
+        "CSS3": "*",
+        "SQL: "*"
+    },
     "dependencies": {
         "laravel": "*",
         "npm": "*",
