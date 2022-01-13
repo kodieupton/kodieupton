@@ -1,16 +1,36 @@
 ### Hi there 👋
 
-<!--
-**kodieupton/kodieupton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```json
 
-Here are some ideas to get you started:
+{
+    "author": "Kodie Upton",
+    "description": "LuminateOne | Full Stack Developer",
+    "homepage": "https://kodie.dev",
+    "repository": {
+        "type": "open-source",
+        "url": "https://github.com/kodieupton"
+    },
+    "engines: [
+        "PHP",
+        "Javascript",
+        "HTML5",
+        "CSS3",
+        "SQL"
+    ],
+    "dependencies": {
+        "laravel": "*",
+        "npm": "*",
+        "vue": "*",
+        "vuex": "*",
+        "scss": "*",
+        "sass": "*"
+    },
+    "devDependencies": {
+        "internet": "86mbps",
+        "machine": "MacBook Pro 13\" 2020",
+        "editor": "vscode",
+        "music": "Eminem"
+    }
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
