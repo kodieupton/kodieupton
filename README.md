@@ -37,7 +37,7 @@
 
 <!-- GITHUB STATS START -->
 ### Weekday stats
-Monday:       25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░     7.06%
+<pre>Monday:       25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░     7.06%
 
 Tuesday:      72 commits     █████░░░░░░░░░░░░░░░░░░░░     20.34%
 
@@ -51,11 +51,11 @@ Saturday:     41 commits     ███░░░░░░░░░░░░░░
 
 Sunday:       58 commits     ████░░░░░░░░░░░░░░░░░░░░░     16.38%
 
-
+</pre>
 
 
  ### Time of day stats
-morning:      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░     1.13%
+<pre>morning:      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░     1.13%
 
 daytime:      19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░     5.37%
 
@@ -63,4 +63,4 @@ evening:      328 commits    █████████████████
 
 night:        3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░     0.85%
 
-<!-- GITHUB STATS END -->
+</pre><!-- GITHUB STATS END -->
