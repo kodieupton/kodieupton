@@ -1,15 +1,12 @@
 name: Update README
-
 on:
-	workflow_dispatch:
-	schedule:
-		- cron: '0 0 * * *'
-
+    workflow_dispatch:
+    schedule:
+    	- cron: 0 0 * * *
 jobs:
-	update-readme:
-		name: Update README
-		runs-on: ubuntu-latest
-		steps:
-		- uses: kodieupton/readme-stats@main
-			with:
-				GH_ACCESS_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: kodieupton/readme-stats@main
+        with:
+          GH_ACCESS_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
