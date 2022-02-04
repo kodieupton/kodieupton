@@ -37,30 +37,30 @@
 
 <!-- GITHUB STATS START -->
 ### Weekday stats
-<pre>Monday:       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░     NaN%
+<pre>Monday:       21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░     6.18%
 
-Tuesday:      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░     NaN%
+Tuesday:      72 commits     █████░░░░░░░░░░░░░░░░░░░░     21.18%
 
-Wednesday:    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░     NaN%
+Wednesday:    57 commits     ████░░░░░░░░░░░░░░░░░░░░░     16.76%
 
-Thursday:     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░     NaN%
+Thursday:     45 commits     ███░░░░░░░░░░░░░░░░░░░░░░     13.24%
 
-Friday:       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░     NaN%
+Friday:       51 commits     ████░░░░░░░░░░░░░░░░░░░░░     15.00%
 
-Saturday:     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░     NaN%
+Saturday:     37 commits     ███░░░░░░░░░░░░░░░░░░░░░░     10.88%
 
-Sunday:       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░     NaN%
+Sunday:       57 commits     ████░░░░░░░░░░░░░░░░░░░░░     16.76%
 
 </pre>
 
 
  ### Time of day stats
-<pre>morning:      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░     NaN%
+<pre>morning:      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░     1.18%
 
-daytime:      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░     NaN%
+daytime:      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░     3.82%
 
-evening:      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░     NaN%
+evening:      320 commits    ████████████████████████░     94.12%
 
-night:        0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░     NaN%
+night:        3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░     0.88%
 
 </pre><!-- GITHUB STATS END -->
